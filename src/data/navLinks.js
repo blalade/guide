@@ -79,24 +79,24 @@ export const sites = [
       category: 'pages',
       icon: '/icons/github-pages.webp',
       },
-      {
-      id: 'cloudflare-pages',
-      title: 'Cloudflare Pages',
-      description: '由全球领先的 CDN 提供商 Cloudflare 推出的前端部署平台，支持 Jamstack 架构，内置构建优化、边缘函数与自动缓存更新，适合高性能 Web 应用与博客。',
-      shortDesc: 'CDN 优化的前端部署平台。',
-      url: 'https://pages.cloudflare.com/',
-      category: 'pages',
-      icon: '/icons/cloudflare-pages.webp',
-      },
-      {
-      id: 'vercel',
-      title: 'Vercel',
-      description: '专为前端开发打造的现代部署平台，由 Next.js 背后团队开发，支持 Serverless 架构、实时预览与多分支部署，适合敏捷开发、商业级应用与个性化项目。',
-      shortDesc: 'Next.js 团队出品的部署平台。',
-      url: 'https://vercel.com/',
-      category: 'pages',
-      icon: '/icons/vercel.webp',
-      },
+      // {
+      // id: 'cloudflare-pages',
+      // title: 'Cloudflare Pages',
+      // description: '由全球领先的 CDN 提供商 Cloudflare 推出的前端部署平台，支持 Jamstack 架构，内置构建优化、边缘函数与自动缓存更新，适合高性能 Web 应用与博客。',
+      // shortDesc: 'CDN 优化的前端部署平台。',
+      // url: 'https://pages.cloudflare.com/',
+      // category: 'pages',
+      // icon: '/icons/cloudflare-pages.webp',
+      // },
+      // {
+      // id: 'vercel',
+      // title: 'Vercel',
+      // description: '专为前端开发打造的现代部署平台，由 Next.js 背后团队开发，支持 Serverless 架构、实时预览与多分支部署，适合敏捷开发、商业级应用与个性化项目。',
+      // shortDesc: 'Next.js 团队出品的部署平台。',
+      // url: 'https://vercel.com/',
+      // category: 'pages',
+      // icon: '/icons/vercel.webp',
+      // },
 ];
 /**
  * @param {string} query
